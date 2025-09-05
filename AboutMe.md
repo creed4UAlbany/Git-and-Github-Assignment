@@ -1,0 +1,1 @@
+Hello! My name is Chris Reed. I am a full-stack software engineer with over three years of experience working in the industry. I have a wide range of technnologies that I am proficient in. Currently I work mainly with SpringBoot Kotlin/Java WebApps that utilize React TypeScript frontends. Outside of work I like to spend time in my gardens and play with with my dog Topaz!
