@@ -1,1 +1,5 @@
-Hello! My name is Chris Reed. I am a full-stack software engineer with over three years of experience working in the industry. I have a wide range of technnologies that I am proficient in. Currently I work mainly with SpringBoot Kotlin/Java WebApps that utilize React TypeScript frontends. Outside of work I like to spend time in my gardens and play with with my dog Topaz!
+Hello! My name is Chris Reed. I am a full-stack software engineer with over three years of experience working in the industry. I have a wide range of technnologies that I am proficient in. Currently I work mainly with SpringBoot Kotlin/Java WebApps that utilize React TypeScript frontends. 
+
+Outside of work I like to spend time in my gardens. I have been working on digging up a bunch of overgrown gardens. I have been sifting the weeds and roots out of the dirt and then putting the dirt back in the garden. I have had a lot of fun buying new plants. I am still working on teaching my dog Topaz to stay out of my gardens!
+
+A few weekends ago I went to New York City with my husband and my dog. We stayed at our friend's apartment in the Upper West End. We went to see "Oh Mary" and the Lady Gaga Mayhem tour in the same day. We had a great time!
